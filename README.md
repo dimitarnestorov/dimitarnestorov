@@ -1,16 +1,25 @@
-### Hi there 👋
+# My projects
 
-<!--
-**dimitarnestorov/dimitarnestorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## iOS Jailbreak Tweaks
 
-Here are some ideas to get you started:
+- [SearchAutoFocus](https://github.com/dimitarnestorov/SearchAutoFocus) - Focus search bars automatically
+- [DiscordScrollToTop](https://github.com/dimitarnestorov/DiscordScrollToTop) - Scroll to the top when tapping the status bar in Discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## macOS apps
+
+- [MusicBar](https://musicbar.app) - Apple Music and Spotify in your menu bar
+
+## React Native libraries
+
+- [react-native-dark-mode](https://github.com/codemotionapps/react-native-dark-mode) - Support for dark mode in React Native (deprecated)
+- [react-native-webview-alternative](https://github.com/codemotionapps/react-native-webview-alternative) - Alternative to react-native-webview
+- [react-native-help-scout](https://github.com/codemotionapps/react-native-help-scout) - Wrapper for Help Scout's Beacon for easy use in React Native
+- [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic) - Helper APIs to work with dark mode in React Native
+
+## Electron developer tools
+
+- [react-devtools-electron](https://github.com/dimitarnestorov/react-devtools-electron) - React Developer Tools for Electron on npm
+
+## Browser extensions
+
+- [Apple Docs Force Default Language](https://github.com/dimitarnestorov/apple-docs-force-default-language) - Forces Apple docs to open in Objective-C
