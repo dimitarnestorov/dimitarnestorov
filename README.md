@@ -3,6 +3,7 @@
 ## iOS Jailbreak Tweaks
 
 - [SearchAutoFocus](https://github.com/dimitarnestorov/SearchAutoFocus) - Focus search bars automatically
+- [TapTapTipTapTime](https://github.com/YulkyTulky/TapTapTipTapTime) - Tap the status bar time to see the date
 - [DiscordScrollToTop](https://github.com/dimitarnestorov/DiscordScrollToTop) - Scroll to the top when tapping the status bar in Discord
 
 ## macOS apps
